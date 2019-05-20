@@ -3,7 +3,7 @@ This is the code for Q-value Path Decomposition for Deep Multiagent Reinforcemen
 Requirements:
 1. Tensorflow;
 2. Tensorboard_easy for logging;
-3. SMAC SCII, follow the instructions by https://github.com/oxwhirl/smac.
+3. SMAC SCII platform, follow the instructions by https://github.com/oxwhirl/smac.
 
 After installing the environment, add the following two functions into the file starcraft2.py.
 
